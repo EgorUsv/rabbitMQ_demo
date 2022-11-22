@@ -8,4 +8,4 @@ How to run:
 
 To Enable web UI you shoud run this `.\rabbitmq-plugins.bat enable rabbitmq_management`. This command will add web UI as server plugin. Web UI by default runs at `http://localhost:15672`  Login and password: 
 *guest*.
-For localhost run you should run browser in private window.
+For localhost run you should run in private window.
